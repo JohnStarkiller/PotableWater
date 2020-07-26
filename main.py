@@ -165,3 +165,4 @@ nazwa = listaPrzyborow.get('WashBasin').getName()
 baseLU = listaPrzyborow.get('WashBasin').getBaseLU()
 print('PRZYBOR: ' + nazwa + ' LU= ' + str(baseLU))
 
+
